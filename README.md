@@ -24,7 +24,10 @@ Packages used in this project:
   
 The user can run the "test visualization.ipynb" for the gesture control app (also, one need to download the files and directory to the local system).
 
-Gestures and its functions:
+Gesture shapes:
+![alt text](https://github.com/rogyizac/Gesture-recognition-using-CV/blob/master/gesture%20shapes.JPG/to/img.png)
 
+Gestures and its functions:
+![alt text](https://github.com/rogyizac/Gesture-recognition-using-CV/blob/master/Gesture%20and%20its%20functions.JPG/to/img.png)
 
 
