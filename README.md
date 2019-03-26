@@ -16,6 +16,8 @@ This application tries to solve exactly that by enabling you to control the comp
 
 Download the weights file from here https://drive.google.com/open?id=1IvtfkTm0WPejhBuHiS_O7IDdBMKjAAli and configure test_visualisation.ipynb to point to the weights folder. Please find a sample dataset also in the same folder for referencing green screen implementation of the hand gestures.
 
+Please find green screen image preprocessing scripts in Green_screen_image_preprocessing.ipynb notebook.
+
 Packages used in this project:
 
   1. OpenCV
