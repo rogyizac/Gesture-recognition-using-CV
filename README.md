@@ -24,6 +24,7 @@ Packages used in this project:
   4. pynput.mouse (from PyPI)
   
 Requirements: Nvidia gpu supporting cuda and cudnn.
+
 The user can run the "test visualization.ipynb" for the gesture control app (also, one need to download the files and directory to the local system).
 
 Gesture shapes:
