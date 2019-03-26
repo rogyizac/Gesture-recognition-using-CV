@@ -14,7 +14,7 @@ Problem Statement:
 There might be situations where your hands can’t reach the keyboard while watching a movie that you like, or for some reason you’re not able to use your keyboard or mouse to perform a simple task such as pausing and unpausing a video that you are watching, scrolling through a webpage or blog post, changing slides of a presentation during a lecture or just plainly a situation where you need to simply press the next button but you are just unable to reach the keyboard or mouse and the frustration starts.
 This application tries to solve exactly that by enabling you to control the computer with a few hand gestures and postures. For example, showing your palm in front of the system will enable the pause and un-pause function of a video player.
 
-Download the weights file from here https://drive.google.com/drive/folders/1IvtfkTm0WPejhBuHiS_O7IDdBMKjAAli?usp=sharing and configure test_visualisation.ipynb to point to the weights folder.
+Download the weights file from here https://drive.google.com/drive/folders/1IvtfkTm0WPejhBuHiS_O7IDdBMKjAAli?usp=sharing and configure test_visualisation.ipynb to point to the weights folder. Please find a sample dataset also in the same folder.
 
 Packages used in this project:
 
